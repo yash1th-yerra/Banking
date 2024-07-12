@@ -63,8 +63,7 @@ Banking-App/
 Contributing
 Feel free to fork this project, make your changes, and submit a pull request. Please make sure your code follows the existing code style and includes proper documentation.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ```go
 This `README.md` file provides a comprehensive overview of your Java Banking project, including the package structure, classes, features, and instructions for running the application.
