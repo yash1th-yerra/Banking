@@ -42,7 +42,7 @@ Mini Statement: View the last transaction made.
 Calculate Interest: Calculate the interest accrued over a specified number of years.
 Exit: Exit the application.
 
-
+````scss
 Banking-App/
 │
 ├── src/
@@ -57,6 +57,7 @@ Banking-App/
 ├── bin/ (Compiled classes will be here)
 │
 └── README.md
+````
 
 
 Contributing
@@ -65,8 +66,9 @@ Feel free to fork this project, make your changes, and submit a pull request. Pl
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-go
+```go
 This `README.md` file provides a comprehensive overview of your Java Banking project, including the package structure, classes, features, and instructions for running the application.
+```
 
 
 
