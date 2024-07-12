@@ -22,14 +22,15 @@ This is a simple banking application developed using Java. The project demonstra
    cd Banking-App
 Compile the Java Files
 
-```sh
-javac -d bin src/com/simplejavaprojects/banking/*.java
-/```
+  ```sh
+  javac -d bin src/com/simplejavaprojects/banking/*.java
+  ```
 
 Run the Application
 
 ```sh
 java -cp bin com.simplejavaprojects.banking.Banking
+```
 
 
 
